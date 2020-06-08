@@ -19,7 +19,7 @@ describe('parse French National Id', () => {
       administrativeCode: '0CHE02',
       issueDate: '1710',
       administrativeCode2: 'GVA',
-      documentNumber: '12345',
+      documentNumber: '1710GVA12345',
       documentNumberCheckDigit: '1',
       firstName: 'ROBERTA',
       birthDate: '911231',
