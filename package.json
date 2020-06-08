@@ -1,7 +1,7 @@
 {
-  "name": "mrz",
-  "version": "3.1.1",
-  "description": "Parse MRZ (Machine Readable Zone) from identity documents",
+  "name": "@wubook/mrz",
+  "version": "1.0.0",
+  "description": "Parse MRZ (Machine Readable Zone) from identity documents || PATCH",
   "main": "./src/index.js",
   "files": [
     "src"
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cheminfo-js/mrz.git"
+    "url": "https://github.com/wubook/mrz.git"
   },
   "keywords": [
     "mrz",
@@ -31,12 +31,6 @@
     "card",
     "passport"
   ],
-  "author": "Luc Patiny <luc@patiny.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cheminfo-js/mrz/issues"
-  },
-  "homepage": "https://github.com/cheminfo-js/mrz#readme",
   "devDependencies": {
     "cheminfo-tools": "^1.20.3",
     "eslint": "^4.19.1",
